@@ -929,7 +929,7 @@ input::-ms-input-placeholder {
 
 /*about_skill_area*/
 
-p{
+p {
     margin-bottom: 0;
 }
 
@@ -1067,6 +1067,11 @@ p{
     width: 100%;
 
 }
+
+.othersservice .single_othersservice a {
+    color: #797979;
+}
+
 
 .othersservice .single_othersservice .single_othersservice_icon {
 }
@@ -1741,24 +1746,24 @@ button.btn-md:hover {
 
 }
 
-.video-section a{
+.video-section a {
     color: #ff7200;
-    font-size: 15px ;
+    font-size: 15px;
 }
 
-.video-section a:hover{
+.video-section a:hover {
     color: #797979;
 }
 
 .video-section i {
     margin-right: 10px;
-    font-size: 15px ;
+    font-size: 15px;
 }
 
-.video-section b{
+.video-section b {
     margin: 15px 0 10px 0;
     display: block;
-    font-size: 15px ;
+    font-size: 15px;
 }
 
 
