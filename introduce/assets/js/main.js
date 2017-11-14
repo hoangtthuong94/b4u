@@ -61,7 +61,7 @@ $(document).ready(function () {
         slideSpeed: 100,
         pagination: true,
         paginationSpeed: 100,
-        items: 3
+        items: 2
     });
 
     $('#price-range').slider();
